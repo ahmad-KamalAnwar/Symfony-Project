@@ -1,0 +1,24 @@
+
+{% trans %}Hello %name%{% endtrans %}
+
+{% transchoice count %}
+    {0} There are no apples|{1} There is one apple|]1,Inf[ There are %count% apples
+{% endtranschoice %}
+
+
+{% trans with {'%name%': 'Fabien'} into 'fr' %}Hello %name%{% endtrans %}
+
+{% transchoice count with {'%name%': 'Fabien'} %}
+    {0} %name%, there are no apples|{1} %name%, there is one apple|]1,Inf[ %name%, there are %count% apples
+{% endtranschoice %}
+
+{% trans with {'%name%': 'Fabien'} from 'custom_domain' %}Hello %name%{% endtrans %}
+
+
+{{ message|trans }}
+
+{{ message|transchoice(5) }}
+
+{{ message|trans({'%name%': 'Fabien'}, 'app') }}
+
+{{ message|transchoice(5, {'%name%': 'Fabien'}, 'app') }}
