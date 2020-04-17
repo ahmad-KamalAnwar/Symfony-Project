@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8212440-533e-44ad-b62b-a2f701aed914" name="Default Changelist" comment="" />
+    <list default="true" id="f8212440-533e-44ad-b62b-a2f701aed914" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Apna/TestBundle/translations/messages.fr.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Apna/TestBundle/Resource/translations/messages.fr.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +15,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -72,6 +78,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1aWMh6GKBsRFA3qFKR2nryYeKoA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -80,13 +87,21 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Apna/TestBundle" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Apna/TestBundle/Resource" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Apna/TestBundle" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -115,7 +130,8 @@
       <workItem from="1586934645680" duration="3583000" />
       <workItem from="1586957797328" duration="1422000" />
       <workItem from="1587014709584" duration="24000" />
-      <workItem from="1587025497014" duration="10092000" />
+      <workItem from="1587025497014" duration="10689000" />
+      <workItem from="1587101333673" duration="1318000" />
     </task>
     <servers />
   </component>
@@ -139,9 +155,9 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="573" y="249" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1586850498521" />
-    <state x="104" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1587039066181">
+    <state x="104" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1587101510519">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="104" y="45" width="840" height="1034" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1587039066181" />
+    <state x="104" y="45" width="840" height="1034" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1587101510519" />
   </component>
 </project>
